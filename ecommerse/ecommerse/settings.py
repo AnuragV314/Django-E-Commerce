@@ -146,4 +146,4 @@ EMAIL_USE_TLS = True
 EMAIL_USE_SSL = False
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'vermagup01@gmail.com'
-EMAIL_HOST_PASSWORD = 'hdbrwppgqnxrszcd'  # gmail-app password
+EMAIL_HOST_PASSWORD = 'hdbrskjfdjfjdkfbkjdsfbkj'  # gmail-app password
